@@ -1,0 +1,7 @@
+@font-face {
+   font-family: 'Acme';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Applications/XAMPP/xamppfiles/htdocs/BeluBuzz/fonts/Acme/regular.ttf') format('truetype');
+}
